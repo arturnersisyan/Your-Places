@@ -46,5 +46,5 @@ DataBase:
 
 Clone the Repository:
 ```bash
-  git clone https://github.com/arturnersisyan/DesertOrder.git
+  https://github.com/arturnersisyan/Your-Places.git
 ```
