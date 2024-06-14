@@ -15,7 +15,7 @@ Users can add and delete places along with their precise location coordinates an
 Empowering users with control, the platform enables easy editing of existing places.
 Whether updating information, adding new images, or refining details, users can effortlessly maintain and curate their shared experiences.
 
-4. Viewing Other User Opinions:
+4.Viewing Other User Opinions:
 
 5.Encouraging engagement and interaction, users can explore and view opinions shared by other users about various places. 
 This feature fosters community engagement, allowing users to discover new locations, gain insights, and share their perspectives.
